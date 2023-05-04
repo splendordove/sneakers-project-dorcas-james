@@ -664,7 +664,7 @@ grid-template-columns: 415px;
     grid-template-columns: repeat(2, 415px);
   }
 
-  .nav__container{
+  .new__container{
     grid-template-columns: max-content 1fr;
   }
 
